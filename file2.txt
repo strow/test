@@ -1,0 +1,7 @@
+Some stuff
+
+I prefer you to make commits fairly often, just to be sure you don't
+xxxx
+you did, or lose your work.  However, it is hard to quantify this, you
+yyyy
+need to use your judgement.
