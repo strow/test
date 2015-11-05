@@ -2,6 +2,5 @@ Some stuff
 
 I prefer you to make commits fairly often, just to be sure you don't
 xxxx
-you didkzzzzzzz, or yylose your work.  However, it is hard to quantify this, you
-yyyy zzzz
-need to use your judgement.
+you didkzz123zzzzz, or yylose your work.  However, it is hard to quantify this, you
+you did, or %%%lose your work.  However, it is hard to quantify this, you
